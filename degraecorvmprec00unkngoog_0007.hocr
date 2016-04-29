@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./degraecorvmprec00unkngoog_0007.png"; bbox 0 0 2760 4876; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 294 2099 1244 2261">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 294 2099 1244 2261">
+     <span class='ocr_line' id='line_1_1' title="bbox 294 2099 1244 2170; baseline 0.002 -17"><span class='ocrx_word' id='word_1_1' title='bbox 294 2099 466 2170; x_wconf 72' lang='lat' dir='ltr'><strong>Paginarum</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 484 2100 593 2155; x_wconf 81' lang='lat' dir='ltr'>numeri</span> <span class='ocrx_word' id='word_1_3' title='bbox 611 2100 699 2156; x_wconf 80' lang='lat' dir='ltr'><strong>iidem</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 717 2102 783 2156; x_wconf 80' lang='lat' dir='ltr'><strong>sunt</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 801 2100 990 2170; x_wconf 78' lang='lat' dir='ltr'>supplementi</span> <span class='ocrx_word' id='word_1_6' title='bbox 1008 2100 1133 2154; x_wconf 80' lang='lat' dir='ltr'>vicesimi</span> <span class='ocrx_word' id='word_1_7' title='bbox 1152 2103 1244 2155; x_wconf 78' lang='lat' dir='ltr'><strong>octavi</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 588 2190 957 2261; baseline 0 -17"><span class='ocrx_word' id='word_1_8' title='bbox 588 2191 733 2245; x_wconf 72' lang='lat' dir='ltr'><strong>annalium</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 751 2190 957 2261; x_wconf 80' lang='lat' dir='ltr'>philologorum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 560 4207 984 4245">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 560 4207 984 4245">
+     <span class='ocr_line' id='line_1_3' title="bbox 560 4207 984 4245; baseline 0.007 -4"><span class='ocrx_word' id='word_1_10' title='bbox 560 4207 675 4243; x_wconf 67' lang='lat' dir='ltr'><strong>maun:</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 694 4208 768 4243; x_wconf 72' lang='lat' dir='ltr'>‘rme</span> <span class='ocrx_word' id='word_1_12' title='bbox 783 4209 806 4243; x_wconf 80' lang='lat' dir='ltr'>B.</span> <span class='ocrx_word' id='word_1_13' title='bbox 818 4210 843 4244; x_wconf 74' lang='lat' dir='ltr'>G.</span> <span class='ocrx_word' id='word_1_14' title='bbox 855 4209 984 4245; x_wconf 68' lang='lat' dir='ltr'>mmm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1384 4876">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1384 4876">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1384 4876; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1384 4876; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
